@@ -17,10 +17,11 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Merging makes two branches into one singular branch while rebasing 
 takes one branch to the beginning of another branch.
+
 Q3: What skills do you hope to improve during this course?
 
 Answer: I want to improve on my python coding skills and learn more about the
 packages python has to offer. 
 
-blah
+
 
