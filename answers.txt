@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data Science can be applied to business, specifically large food corportations. It can be used t analyze the population that consumes fastfood such as whether it is younger or older people and how much is consumed on a national level on a daily basis. This can be helpful for understanding what meals are more popular to help innovate new menu items. 
