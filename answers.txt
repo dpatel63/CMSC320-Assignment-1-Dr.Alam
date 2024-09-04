@@ -12,3 +12,8 @@ corportations. It can be used t analyze the population that consumes
 fastfood such as whether it is younger or older people and how much is 
 consumed on a national level on a daily basis. This can be helpful for 
 understanding what meals are more popular to help innovate new menu items. 
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I want to improve on my python coding skills and learn more about the
+packages python has to offer. 
