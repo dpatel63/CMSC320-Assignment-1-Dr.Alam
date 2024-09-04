@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: Git allows for documents and files to be uploaded with most recent changes.
+It also allows for more collaboration as other have access to view your code and implementation if given access. 
+
+
